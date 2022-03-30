@@ -1,5 +1,5 @@
 import React from 'react'
-import TodoItem from './TodoItem';
+
 
  const InputTodo = ({ changeInput, input, todo, updateTodo }) => {
     const inputEvent = (e) => {
